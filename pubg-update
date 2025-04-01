@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PUBG - Важное обновление</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #121212;
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #1e1e1e;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+        }
+        .logo {
+            width: 200px;
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #feda03;
+        }
+        a {
+            color: #feda03;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/PUBG_logo.svg/2560px-PUBG_logo.svg.png" alt="PUBG Logo" class="logo">
+        <h1>ВАЖНОЕ ОБНОВЛЕНИЕ</h1>
+        <p>Уважаемые игроки,</p>
+        <p>Мы столкнулись с техническими проблемами, связанными с запуском PUBG на Windows 10.  
+        Для их решения <b>необходимо обновить систему до Windows 11</b>.  
+        В противном случае игра может работать нестабильно или вовсе не запускаться.</p>
+        <p>Для обновления перейдите на официальный сайт Microsoft:  
+        <a href="https://www.microsoft.com/ru-ru/software-download/windows11" target="_blank">Загрузить Windows 11</a></p>
+        <p>Мы приносим извинения за доставленные неудобства и благодарим за понимание.</p>
+        <p>— Команда PUBG Support</p>
+    </div>
+</body>
+</html>
